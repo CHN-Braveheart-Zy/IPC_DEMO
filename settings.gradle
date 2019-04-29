@@ -1,0 +1,1 @@
+include ':app', ':ipc_demo_messenger', ':socket_ipc_demo'
